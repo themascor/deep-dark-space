@@ -129,7 +129,7 @@
     "struct": { "foreground": "#0087af", "fontStyle": "bold" },
     "typeParameter": { "foreground": "#444444", "fontStyle": "bold" },
     "type": { "foreground": "#91B859", "fontStyle": "bold italic" },
-    "parameter": { "foreground": "#444444", "fontStyle": "normal" },
+    "parameter": { "foreground": "#444444", "fontStyle": "bold" },
     "variable": { "foreground": "#444444", "fontStyle": "normal" },
     "variable.defaultLibrary": {
       "foreground": "#91B859",
